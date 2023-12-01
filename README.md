@@ -8,7 +8,7 @@ Puzzle descriptions and inputs are provided.
 
 ## My progress
 
-- [Day 1](day01) ☆☆
+- [Day 1](day01) ★★
 - [Day 2](day02) 
 - [Day 3](day03) 
 - [Day 4](day04) 
