@@ -15,7 +15,7 @@ Puzzle descriptions and inputs are provided.
 - [Day 5](day05) ★★
 - [Day 6](day06) ★★
 - [Day 7](day07) ★★
-- [Day 8](day08) 
+- [Day 8](day08) ★★
 - [Day 9](day09) 
 - [Day 10](day10) 
 - [Day 11](day11) 
