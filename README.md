@@ -20,8 +20,8 @@ Puzzle descriptions and inputs are provided.
 - [Day 10](day10) ★★
 - [Day 11](day11) ★★
 - [Day 12](day12) ★☆
-- [Day 13](day13) 
-- [Day 14](day14) 
+- [Day 13](day13) ☆☆
+- [Day 14](day14) ★☆
 - [Day 15](day15) 
 - [Day 16](day16) 
 - [Day 17](day17) 
